@@ -1,19 +1,25 @@
 # Flutter Widget Teacher with BLoC
 
 ## Getting Started
+Widget teacher is a learning app for flutter widgets. It is a simple app that shows the widget and its properties. It also shows the code for the widget.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to run
+- Clone the repo
+- Run `flutter pub get`
+- Run `flutter run`
 
 ## Dependencies
 - Flutter
 - Dart
 - Bloc
+
+## Screenshots
+### Column Teacher
+  * ![Column Teacher 1](images%2Fcolumn_teacher_1.jpeg)
+  * ![Column Teacher 2](images%2Fcolumn_teacher_2.jpeg)
+
+---
+
+### Row Teacher
+  * ![Row Teacher 1](images%2Frow_teacher_1.jpeg)
+  * ![Row Teacher 2](images%2Frow_teacher_2.jpeg)
